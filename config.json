@@ -1,0 +1,15 @@
+{
+    "chain" : "ethereum",
+    "params":{
+        "toBlock" : 17481890,
+        "contractAddresses": "0xa33C3162BD3AE64e81DbC88765B6f719C90c5B28",
+        "symbol" : "ZM"
+    },
+    "time": {
+        "year"  : 2023 ,
+        "month" : 6 , 
+        "day"   : 18 , 
+        "hour"  : 10 , 
+        "minute": 0
+    }
+}
